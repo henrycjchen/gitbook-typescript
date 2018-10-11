@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-typescript",
+  "version": "1.0.0",
+  "description": "typescript 是 javascript 语言的超集",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "gitbook build ./src ./docs",
+    "serve": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrycjchen/gitbook-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrycjchen/gitbook-typescript/issues"
+  },
+  "homepage": "https://github.com/henrycjchen/gitbook-typescript#readme"
+}
